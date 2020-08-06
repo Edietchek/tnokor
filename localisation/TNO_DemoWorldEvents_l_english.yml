@@ -333,17 +333,17 @@ DEMOWORLDEVENT.73.t:0 "독일이 남아프리카 전쟁에 개입하다"
 DEMOWORLDEVENT.73.desc:0 "오늘 라이히스탁 폐허 앞에서 행해진 격렬한 연설에서, 페르디난트 쇠르너는 "국가재건정부"가 "미국의 전례 없는 적대행위를 끝내기 위해" 아프리카에 즉시 개입하겠다고 발표했습니다.\n\n쇠르너의 통치 방식을 모르는 이들은 이 소식에 놀랐을지도 모릅니다. 여전히 독일 대부분이 폐허로 남아있고 국민은 트라우마와 기아로 고통받으며, 패배한 총통들의 지지자들이 독일 각지를 물들이고 있습니다. 하지만 이런 문제에도 불구하고 -어쩌면 이런 문제 때문에- 라이히는 식민지의 전쟁에 뛰어들기로 했습니다.\n\n쇠르너는 이미 끈기 있는 국민돌격대와 돌격부대를 아프리카로 보냈습니다. 이 일로 전세를 역전할 수 있는지 알게 될 것입니다."
 DEMOWORLDEVENT.73.a:0 "이 전쟁이 끝나기는 하나?"
 DEMOWORLDEVENT.73.b:0 "드디어 증원군이 왔다."
-DEMOWORLDEVENT.73.c:0 "그래서 얼마나 온데?"
+DEMOWORLDEVENT.73.c:0 "그래서 얼마나 온대?"
 
 ##러시아 통일 - 나 죽는다 살려줘
 ### West Russia World Events ###
-DEMOWORLDEVENT.74.t:0 "Aryan Brotherhood Unifies West Russia!"
-DEMOWORLDEVENT.74.desc:0 "For the first time since the war in the 1950s, West Russia is united under one banner. Unfortunately for the country and the world, that banner is the swastika. The first transmissions and declarations coming from the region talk about the cryptic Aryan Brotherhood, a society of Russians who believe that being Aryan is not based on race, but is a state the Slavic race can achieve, thus becoming equal to their conquerors.\n\nAs insane and unlikely as this sounds, the Brotherhood under the rule of one Gutrum Vagner is now in control of West Russia. They have announced their success and their equality to the "Reykh". The world looks silently in awe and confusion, as they wait for what happens next. What will be the future moves of this new Russian warlord state, and what will be the reaction of the mighty Reich to this absurd entity?"
-DEMOWORLDEVENT.74.a:0 "Let us hope such lunatics don't get much further."
+DEMOWORLDEVENT.74.t:0 "아리아 형제회가 서러시아를 통일하다!"
+DEMOWORLDEVENT.74.desc:0 "1950년대의 전쟁 이래 처음으로 서러시아가 하나의 기치 아래 통일되었습니다. 러시아와 세계엔 불운하게도, 그 기치에는 스와스티카가 그려져 있습니다. 해당 지역에서 처음으로 전해진 송신들과 선언들이 담은 내용은, 아리아인이란 인종에 근간한 것이 아니기에 슬라브인들이 이룩할 수 있는 어떠한 상태이며, 따라서 슬라브인들이 자신들의 정복자와 동등해질 수 있다고 믿는 러시아인들의 모임인 수수께끼의 아리아 형제회에 관한 것들이었습니다.\n\n듣기만 해도 제정신이 아니며 믿기도 어렵지만, 구트룸 바그너의 통치 아래 형제회는 서러시아를 지배하고 있습니다. 저들은 자신들의 성공과 더불어 "라이히"에 대한 자기들의 동등함을 공포했습니다. 세계는 공포와 혼란 속에 조용히 이를 바라보며 저들의 다음 움직임을 기다리고 있습니다. 이 신생 러시아 군벌국의 다음은 무엇일 테며, 이 기괴한 정치체를 향해 막강한 라이히는 어떤 답을 주게 될까요?"
+DEMOWORLDEVENT.74.a:0 "저 광인들이 더 나아가지 못하길 바라지."
 
-DEMOWORLDEVENT.76.t:0 "Komi Unifies West Russia!"
-DEMOWORLDEVENT.76.desc:0 "Born out of the ashes of the WRRF, the small Republic of Komi managed to survive between larger rivals in its region. A safe haven for political radicals from all sides of the spectrum, the Republic became increasingly unstable, but in the end, the status quo held. The [NIK.GetRulingParty], party that has led the republic since its infancy, have managed to eliminate their various shades of radical opposition, and ensured that West Russia is united once again.\n\nA declaration written by the President has been released, stating that Komi has been replaced by the West Russian Free Republic, which is not limited in the territory it used to hold as an ASSR, but encompasses much more. This has proven to be a turning point, and marks the final defeat of the rivals to the democratic warlord state in the region. It now seems that a new contender for the control of Russia has appeared.\n"
-DEMOWORLDEVENT.76.a:0 "Thankfully, it's a democracy."
+DEMOWORLDEVENT.76.t:0 "코미가 서러시아를 통일하다!"
+DEMOWORLDEVENT.76.desc:0 "서러시아 혁명전선의 잿더미 속에서 태어난 작은 코미 공화국은 일대의 더 큰 경쟁자들 사이에서 살아남았습니다. 모든 스펙트럼의 정치급진파들의 안식처가 된 공화국은 불안정해져갔지만, 종국에는 현상유지를 이루어냈습니다. 태동기부터 공화국을 이끌어온 [NIK.GetRulingParty]은(는) 여러 급진 야당의 암면을 쓸어내며 서러시아를 다시금 통일해냈습니다.\n\n공개된 대통령의 선언문에는, 이제는 일개 ASSR로서의 한정된 영토가 아닌 더 넓은 지역을 통제하게 된 공화국의 국호를 서러시아 자유공화국으로 교체한다는 내용이 담겼습니다. 이는 하나의 전환점이 될 것이며, 일대에서 민주 군벌국에게 맞서던 경쟁자들의 최후패배를 뜻합니다. 러시아를 지배할 새 도전자가 등장한 것처럼 보입니다.\n"
+DEMOWORLDEVENT.76.a:0 "고맙게도 민주정이군."
 
 DEMOWORLDEVENT.77.t:0 "Samara Unifies West Russia!" 
 DEMOWORLDEVENT.77.desc:0 "A communique detailing the birth of the "Provisional Commissariat of Western Russia" has reached many news agencies around the world by unknown means. This strange missive details the rise of a new democracy in western Russia, helmed by former collaborator Andrey Vlasov and his protege Miletiy Zykov.\n\nWidely loathed in Russia for their support of the Germans during the West Russian War, the Russian Liberation Army has always claimed its status as the embryo of a legitimate Russian state free from Bolshevik influence. Disappearing into the anarchy after the war, the ROA's reappearance today has been quite a shock for Russian observers. The new nation's long term prospects remain uncertain."
